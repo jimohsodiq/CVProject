@@ -1,0 +1,136 @@
+*{
+  padding: 0;
+  margin: 0;
+  font-family: Georgia, serif;
+  box-sizing: border-box;
+}
+
+.box{
+width:850px;
+margin-top: 70px;
+border: 2px solid black;
+margin-left: 290px;
+margin-bottom: 70px;
+background-color: rgb(215, 239, 247);
+}
+
+.header{
+  text-align: center;
+  box-sizing: border-box;
+
+}
+
+.header1{
+  margin-top: 30px;
+}
+
+.p1{
+  font-size: 13.7px;
+}
+
+.obj{
+  margin-top: 20px;
+  margin-left: 10px;
+  font-weight: bold;
+  border-bottom: 2px solid black;
+  margin-right: 10px;
+}
+
+.cont{
+  margin-top: 6px;
+  margin-left: 10px;
+
+
+}
+
+.pers-data{
+  margin-top: 10px;
+  margin-left: 10px;
+  font-weight: bold;
+  border-bottom: 2px solid black;
+  margin-right: 10px;
+}
+
+.infs{
+  margin-top: 6px;
+  margin-left: 10px;
+}
+
+.edu{
+  margin-top: 10px;
+  margin-left: 10px;
+  font-weight: bold;
+  border-bottom: 2px solid black;
+  margin-right: 10px;
+}
+
+.schl{
+  margin-top: 6px;
+  margin-left: 10px;
+}
+
+.work-exp{
+  margin-top: 10px;
+  margin-left: 10px;
+  font-weight: bold;
+  border-bottom: 2px solid black;
+  margin-right: 10px;
+}
+
+.comp{
+  margin-top: 6px;
+  margin-left: 10px;
+}
+
+.compt{
+  margin-top: 10px;
+  margin-left: 10px;
+  font-weight: bold;
+  border-bottom: 2px solid black;
+  margin-right: 10px;
+}
+
+.feat{
+  margin-top: 6px;
+  margin-left: 35px;
+}
+
+.core-value{
+  margin-top: 10px;
+  margin-left: 10px;
+  font-weight: bold;
+  border-bottom: 2px solid black;
+  margin-right: 10px;
+}
+
+.charis{
+  margin-top: 6px;
+  margin-left: 10px;
+}
+
+.hobbies{
+  margin-top: 10px;
+  margin-left: 10px;
+  font-weight: bold;
+  border-bottom: 2px solid black;
+  margin-right: 10px;
+}
+
+.play{
+  margin-top: 6px;
+  margin-left: 10px;
+}
+
+.refs{
+  margin-top: 10px;
+  margin-left: 10px;
+  font-weight: bold;
+  border-bottom: 2px solid black;
+  margin-right: 10px;
+}
+
+.name{
+  margin-top: 6px;
+  margin-left: 10px;
+  margin-bottom: 70px;
+}
